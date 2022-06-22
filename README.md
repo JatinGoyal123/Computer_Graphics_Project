@@ -2,6 +2,7 @@
 CG project using OPEN-GL.
 
 # Description of the Project
+<pre> 
 In this project we’ve shown a scene from an urban landscape and simulate it using C++ and Open GL libraries. The simulation consists of two times of a day – Day (accessed by the ‘D’ key on the keyboard) and Night (accessed by the ‘N’ key on the keyboard). It also consists of a moving tram on a road, a moving ferry in the lake, a keyboard controllable traffic light, trees, some urban buildings (Hospital etc.), clouds in motion (Day), the Sun (Day), the Moon (Night) and stars (Night). On a right click menu, we can also have Aeroplane going by and a Comet (Night only). The flow of the landscape on various inputs is given below – 
 
 [Keyboard] Type ‘D’ or ‘d’:
@@ -41,6 +42,8 @@ o	The Comet visibility will be on.
 o	The Hospital lights will turn on (change to yellow)
 o	The Lake water will be of a darker blue shade.
 
+</pre>
+
 ## Screenshots 
 > Day Mode
 ![alt text](https://github.com/JatinGoyal123/Computer_Graphics_Project/blob/main/1.jpg?raw=true) 
@@ -50,4 +53,7 @@ o	The Lake water will be of a darker blue shade.
 
 > Night Mode with MenuBar 
 ![alt text](https://github.com/JatinGoyal123/Computer_Graphics_Project/blob/main/4.jpg?raw=true) 
+
+## 💚: Thanks
+
 
